@@ -63,7 +63,7 @@ func (cvr Converter) PoundsToKilogram(c Pounds) Kilogram {
 
 func main() {
 
-	fmt.Printf(`
+	fmt.Println(`
 		1. Feet To Centimeter
 		2. Centimeter To Feet
 		3. Minutes To Seconds
